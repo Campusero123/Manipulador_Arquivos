@@ -29,12 +29,13 @@ public class ClassePrincipal {
                GravarArquivo.main(args);
                break;
        }
-                  
-                  
+       {  
+           case 2:       
                   ManipuladorArquivos.leitor(path);
-                  
+                  break;
     }
     
+}
 }
 
 
